@@ -16,11 +16,11 @@ if (Test-Path $envFilePath) {
         }
     }
 
-    if ($envDict.ContainsKey("GIT_ACCOUNT")) {
-        $sshHost = "github-$($envDict["GIT_ACCOUNT"])"
-	} else {
-		$sshHost = "github.com"
-	}
+   if ($envDict.ContainsKey("GIT_ACCOUNT") -and -not [string]::IsNullOrWhiteSpace($envDict["GIT_ACCOUNT"])) {
+    $sshHost = $envDict["GIT_ACCOUNT"]
+} else {
+    $sshHost = "github.com"
+}
 }
 
 Write-Host "Usando a conta SSH: $sshHost"
@@ -42,4 +42,5 @@ if ([string]::IsNullOrWhiteSpace($Comment)) {
 # Adiciona alterações, faz commit e realiza push
 git add .
 git commit -m "$Comment"
-git push "ssh://$sshHost/orchesall/orchestall_vault_obsidian.git"
+
+git push "ssh://git@$sshHost/Rip4568/obsidian_vault.git"
