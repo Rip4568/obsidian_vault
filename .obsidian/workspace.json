@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "waisports/VPS configurações.md",
+                "file": "Bem-vindo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPS configurações"
+              "title": "Bem-vindo"
+            }
+          },
+          {
+            "id": "81fd92612226ee57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Games, Tips and tricks/Warframe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Warframe"
+            }
+          },
+          {
+            "id": "0a68d91d3b15bcf2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,46 +194,46 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "5c1614f6a4ec7be6",
+  "active": "0a68d91d3b15bcf2",
   "lastOpenFiles": [
-    "update-personal.ps1",
-    "update.ps1",
-    "activate-auto-update.ps1",
+    "Marketing Digital/ideias/Packs Gerados por IA.md",
+    "Bem-vindo.md",
+    "Games, Tips and tricks/Warframe.md",
+    "abcadwa d aw.md",
+    "Games, Tips and tricks/Tips And Tricks.md",
+    "Games, Tips and tricks",
+    "Bartender/pdfs/coqueteis_de_receitas_criativas_por_max_hayward.pdf",
+    "Bartender/pdfs/12-classicos-de-bolso.pdf",
+    "Bartender/pdfs/Bartender Intro.md",
+    "Bartender/pdfs",
+    "Bartender/pdfs/Bebidas-fermentadas.pdf",
+    "Bartender/pdfs/Cocktail-list-ufficiale-Iba-2020.pdf",
+    "Bartender/pdfs/um-guia-passo-a-passo-para-a-degustacao-do-gin.pdf",
+    "Bartender/pdfs/o-guia-para-o-pre-batched.pdf",
+    "Bartender/pdfs/Negociaçao.pdf",
+    "Bartender/pdfs/Empatia.pdf",
+    "Trabalho/Azeosoft/Azeosoft Introdução e resumo.md",
+    "Trabalho/Lintech/Lintech Intro.md",
+    "Trabalho/Techs/Sistema Ponto/Introdução e tarefas.md",
+    "Trabalho/Azeosoft/ICP. Ideal Consumer Profile.md",
+    "Pasted image 20250901021004.png",
+    "Trabalho/Lintech/Waisports/Configuração de servidor.md",
+    "SSH e github/Configuração para automatizar commits ao github.md",
+    "waisports/VPS configurações.md",
     "orchestall_vault/orchestall/Ideias e Projetos/Cosmeticos (Rhode)/Sobre Cosmeticos.md",
     "Sem título/Passo bem solto.md",
-    "waisports/VPS configurações.md",
-    "Pasted image 20250901021004.png",
-    "waisports",
     "orchestall_vault/orchestall/Ideias e Projetos/Games/Sobre Games.md",
     "orchestall_vault/orchestall/Ideias e Projetos/Games/Pasted image 20250901021004 1.png",
-    "orchestall_vault/orchestall/Ideias e Projetos/Games",
     "Marketing Digital/ideias/Lista de ideias.md",
     "orchestall_vault/orchestall/Pasted image 20250901021004.png.md",
     "orchestall_vault/orchestall/Ideias e Projetos/Remedios/Sobre Remedios.md",
     "orchestall_vault/orchestall/Ideias e Projetos/Remedios/Sem título.md",
-    "orchestall_vault/orchestall/Ideias e Projetos/Remedios",
     "orchestall_vault/orchestall/Ideias e Projetos/Cosmeticos (Rhode)/Sem título.md",
-    "orchestall_vault/orchestall/Ideias e Projetos/Cosmeticos (Rhode)",
     "orchestall_vault/orchestall/Ideias e Projetos/Enem/Sobre Enem.md",
     "orchestall_vault/orchestall/Ideias e Projetos/Enem/Sem título.md",
-    "orchestall_vault/orchestall/Ideias e Projetos/Enem",
     "orchestall_vault/orchestall/Ideias e Projetos/Pneus/Sobre Pneus.md",
     "orchestall_vault/orchestall/Ideias e Projetos/Pneus/Sem título.md",
-    "orchestall_vault/orchestall/Ideias e Projetos/Pneus",
     "orchestall_vault/orchestall/Ideias e Projetos/Technos (replica ou 7 de relogios)/Sobre Relogios.md",
-    "orchestall_vault/orchestall/Ideias e Projetos/Technos (replica ou 7 de relogios)/Sobre.md",
-    "orchestall_vault/orchestall/Ideias e Projetos/Technos (replica ou 7 de relogios)/Sem título.md",
-    "orchestall_vault/orchestall/Ideias e Projetos/Technos (replica ou 7 de relogios)",
-    "orchestall_vault/orchestall/Ideias e Projetos/Inicio Ideias.md",
-    "orchestall_vault/orchestall/Ideias e Projetos",
-    "orchestall_vault/orchestall/Inicio (Lista).md",
-    "orchestall_vault/orchestall/Servicos (caixa rapido)/Inicio Serviços.md",
-    "orchestall_vault/orchestall/Ideias/Inicio Ideias.md",
-    "orchestall_vault/orchestall/Ideias/Inicio (Lista).md",
-    "orchestall_vault/orchestall/Servicos (caixa rapido)/Inicio.md",
-    "orchestall_vault/orchestall/Servicos (caixa rapido)/Sem título.md",
-    "orchestall_vault/orchestall/Servicos (caixa rapido)/NichoHot/Transformação de fotos para pessoas nuas.md",
-    "orchestall_vault/orchestall/Servicos (caixa rapido)/NichoHot/Scripts e dicas para atendimento ao publico.md",
     "orchestall_vault/orchestall/Servicos (caixa rapido)/NichoHot/Pasted image 20250903180450.png",
     "orchestall_vault/orchestall/Servicos (caixa rapido)/Pasted image 20250903180450.png",
     "orchestall_vault/orchestall/Pasted image 20250903180450.png",

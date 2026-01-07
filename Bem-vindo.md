@@ -1,5 +1,11 @@
-Este é o seu novo *Cofre*.
+Este e o meu cofre e minha mente!
 
-Anote algo, [[IguaiNews]], ou tente [o Importer](https://help.obsidian.md/Plugins/Importer)!
+Trabalhos de noticias: [[IguaiNews]]
 
-Quando estiver pronto, exclua esta nota e monte o cofre do seu jeito.
+Lintech: [[Lintech Intro]]
+
+Azeosoft: [[Azeosoft Introdução e resumo]]
+
+Atualmente não considero como trabalho, mas sim um hobby, portanto não vou colocar na pasta trabalho (ainda): [[Bartender Intro]]
+
+Games: [[Tips And Tricks]]

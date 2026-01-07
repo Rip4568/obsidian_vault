@@ -43,4 +43,4 @@ if ([string]::IsNullOrWhiteSpace($Comment)) {
 git add .
 git commit -m "$Comment"
 
-git push "ssh://git@$sshHost/Rip4568/obsidian_vault.git"
+git push
