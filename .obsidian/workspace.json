@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +194,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0a68d91d3b15bcf2",
+  "active": "81fd92612226ee57",
   "lastOpenFiles": [
+    "update-personal.ps1",
+    "update-personal.exe",
     "Estudo/CFAeIP/CFAeIP.md",
     "orchestall_vault/orchestall/Ideias e Projetos/Inicio Ideias.md",
     "Estudo/Estudo Intro.md",
@@ -220,7 +222,6 @@
     "Bartender/pdfs/12-classicos-de-bolso.pdf",
     "Bartender/pdfs/Bartender Intro.md",
     "Bartender/pdfs",
-    "Bartender/pdfs/Bebidas-fermentadas.pdf",
     "Trabalho/Azeosoft/Azeosoft Introdução e resumo.md",
     "Trabalho/Lintech/Lintech Intro.md",
     "Trabalho/Techs/Sistema Ponto/Introdução e tarefas.md",
@@ -233,7 +234,6 @@
     "Sem título/Passo bem solto.md",
     "orchestall_vault/orchestall/Ideias e Projetos/Games/Sobre Games.md",
     "orchestall_vault/orchestall/Ideias e Projetos/Games/Pasted image 20250901021004 1.png",
-    "Marketing Digital/ideias/Lista de ideias.md",
     "orchestall_vault/orchestall/Servicos (caixa rapido)/NichoHot/Pasted image 20250903180450.png",
     "orchestall_vault/orchestall/Servicos (caixa rapido)/Pasted image 20250903180450.png",
     "orchestall_vault/orchestall/Pasted image 20250903180450.png",

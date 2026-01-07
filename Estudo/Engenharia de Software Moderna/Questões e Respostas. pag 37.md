@@ -13,3 +13,18 @@ Resposta:
    O tetes de verificação, verifica se o sistema esta sendo implementado e construído de acordo com os requisitos levantados pelo cliente, garantido que esteja condizente com suas especificações.
    O teste de validação, valida se o sistema esta de acordo com que o cliente(s) e o mercado (ou quaisquer que seja o nicho que esteja atendendo) esteja querendo/solicitando.
    O teste Mais adequado para validar um software seria fazendo uma demonstração ao vivo para o cliente.
+
+4. Por que testes não conseguem provar a ausência de bugs?
+ Resposta: 
+-  pois alguns tetes validam somente a sintaxe do programa, a logica interna como a semântica ainda esta aval do programador que estiver .
+
+4. Suponha um programa que tenha uma única entrada: um inteiro de 64 bits. Em um teste exaustivo, temos que testar esse programa com todos os possíveis inteiros (logo, 264). Se cada teste levar 1 nanossegundo ($10^{-9}$ segundos), quanto tempo levará esse teste exaustivo.
+Resposta:
+
+1 bit = 2 números (1 e 0)
+2 bit = 4 números
+3 bits = 8 números
+4 bits = 16 números
+logo, a razão esta sendo  2^bit, em um programa que aceita 64 bits, poderá aceitar uma entrada de: $2^{64}$ , logo: $2^{64} = 18.446.744.073.709.551.616$ números. se cada teste/ numero levar 1 nanosegundo, teremos 18.446.744.073 segundos.
+Convertendo para horas: ${18.446.744.073}/{60x60}$ = 3600 horas
+Convetendo para anos: 18446744073   ÷   ( 60   ×   60   ×   24   ×   365 ) = 584,94
