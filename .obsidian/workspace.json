@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudo/Engenharia de Software Moderna/Questões e Respostas. pag 37.md",
+                "file": "Estudo/CFAeIP/Mantras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questões e Respostas. pag 37"
+              "title": "Mantras"
             }
           },
           {
@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,8 +194,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "81fd92612226ee57",
+  "active": "0a68d91d3b15bcf2",
   "lastOpenFiles": [
+    "Bem-vindo.md",
+    "Estudo/CFAeIP/Mantras.md",
+    "Estudo/Engenharia de Software Moderna/Questões e Respostas. pag 37.md",
     "update-personal.ps1",
     "update-personal.exe",
     "Estudo/CFAeIP/CFAeIP.md",
@@ -203,13 +206,10 @@
     "Estudo/Estudo Intro.md",
     "Estudo/Engenharia de Software Moderna/engenharia-de-software-moderna.pdf",
     "Estudo/Engenharia de Software Moderna/Engenharia de Software Moderna.md",
-    "Estudo/Engenharia de Software Moderna/Questões e Respostas. pag 37.md",
     "Estudo/Engenharia de Software Moderna/Resumo.md",
     "Games, Tips and tricks/Warframe/Warframe.md",
     "Estudo/Engenharia de Software Moderna",
-    "Bem-vindo.md",
     "Estudo/CFAeIP/Notas importantes.md",
-    "Estudo/CFAeIP/Mantras.md",
     "Estudo/CFAeIP",
     "Games, Tips and tricks/Warframe/Mods Comprar.md",
     "Estudo",
@@ -221,7 +221,6 @@
     "Bartender/pdfs/coqueteis_de_receitas_criativas_por_max_hayward.pdf",
     "Bartender/pdfs/12-classicos-de-bolso.pdf",
     "Bartender/pdfs/Bartender Intro.md",
-    "Bartender/pdfs",
     "Trabalho/Azeosoft/Azeosoft Introdução e resumo.md",
     "Trabalho/Lintech/Lintech Intro.md",
     "Trabalho/Techs/Sistema Ponto/Introdução e tarefas.md",
