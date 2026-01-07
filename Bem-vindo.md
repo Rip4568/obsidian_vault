@@ -2,6 +2,8 @@ Este e o meu cofre e minha mente!
 
 Trabalhos de noticias: [[IguaiNews]]
 
+Estudos, resumos e questões: [[Estudo Intro]]
+
 Lintech: [[Lintech Intro]]
 
 Azeosoft: [[Azeosoft Introdução e resumo]]

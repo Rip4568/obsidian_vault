@@ -1,0 +1,1 @@
+O meu valor e minha felicidade dependem sobre tudo o meu tratar as pessoas
