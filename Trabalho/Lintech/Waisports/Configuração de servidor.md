@@ -1,4 +1,4 @@
-o worker e schedule foi levantado pelo supervisor, alguns comanandos uteis:
+o worker e schedule foi levantado pelo supervisor, alguns comandos uteis:
 - **Ver status de todos os processos:**  
     `supervisorctl status`
 - **Iniciar um processo:**  
@@ -16,16 +16,25 @@ Comando para procurar os seguintes arquivos de configuração:
 ````bash
 grep -r "wai-sports-worker" /etc
 ````
-saida do comando:
+saída do comando:
 /etc/supervisord.d/wai-sports-worker.ini:[program:wai-sports-worker]
 /etc/supervisord.d/wai-sports-worker.ini:stdout_logfile=/var/log/wai-sports-worker.log
 
 
 ## comando para reiniciar os workers
 
-ao fazer altetração nos jobs é crucial fazer um restar para que o novo codigo seja aplicado, faça usando esse comando:
+ao fazer alteração nos jobs é crucial fazer um restar para que o novo código seja aplicado, faça usando esse comando:
 
 `supervisorctl restart wai-sports-worker:*`
-lembrando que esse comando é especifico para o projeto waisports, deve se atentar em realção ao nome escrito em: wai-sports-worker
 
+### Postgres levantando e configurado dentro da própria vps.
+usuário: postgres
+senha: postgres
+host: localhost
+porta: 5432
+
+Conta admin: [[waisports conta admin]]
+
+
+Conexão com a vps: senha e host
 

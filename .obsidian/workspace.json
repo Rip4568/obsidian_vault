@@ -39,10 +39,14 @@
             "id": "0a68d91d3b15bcf2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Trabalho/Lintech/Waisports/Configuração de servidor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configuração de servidor"
             }
           }
         ],
@@ -196,6 +200,9 @@
   },
   "active": "0a68d91d3b15bcf2",
   "lastOpenFiles": [
+    "Trabalho/Lintech/Waisports/waisports conta admin.md",
+    "Trabalho/Lintech/Waisports/Configuração de servidor.md",
+    "Trabalho/Lintech/Lintech Intro.md",
     "Bem-vindo.md",
     "Estudo/CFAeIP/Mantras.md",
     "Estudo/Engenharia de Software Moderna/Questões e Respostas. pag 37.md",
@@ -222,11 +229,9 @@
     "Bartender/pdfs/12-classicos-de-bolso.pdf",
     "Bartender/pdfs/Bartender Intro.md",
     "Trabalho/Azeosoft/Azeosoft Introdução e resumo.md",
-    "Trabalho/Lintech/Lintech Intro.md",
     "Trabalho/Techs/Sistema Ponto/Introdução e tarefas.md",
     "Trabalho/Azeosoft/ICP. Ideal Consumer Profile.md",
     "Pasted image 20250901021004.png",
-    "Trabalho/Lintech/Waisports/Configuração de servidor.md",
     "SSH e github/Configuração para automatizar commits ao github.md",
     "waisports/VPS configurações.md",
     "orchestall_vault/orchestall/Ideias e Projetos/Cosmeticos (Rhode)/Sobre Cosmeticos.md",
