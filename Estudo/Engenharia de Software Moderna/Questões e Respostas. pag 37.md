@@ -64,3 +64,6 @@ else
 
 O que você faria se seu chefe pedisse para escrever um `if` como o acima?
 Para mais informações do real caso que aconteceu acesse o link: ([Wikipedia](https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal)).
+Resposta:
+- Falarai que isso não é uma atitude etica e poderia comprometer a empresa. Alegaria que uma hora ou outro as milhões de pessoas que estão a fora do mundo com suas mais diferentes habilidades de crackear e invadir codigos, poderia causar a exposição do codigo em algum momento por mais que adotamos as melhores praticas. Com isso, poderia casuar enormes prejuizos de multas e processos de legalidades fiscais, e tenho certeza que a ultima coisa que a empresa volkswagem iria querer seria manchar o nome da empresa por falsear informações de emissões de gases.
+
