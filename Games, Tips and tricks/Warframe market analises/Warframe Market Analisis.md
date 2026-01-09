@@ -10,16 +10,46 @@ Como o sistema funciona ?
 
 Assim, garantimos que os itens que "movem o mercado" estejam sempre com o preço fresco, enquanto os itens "mortos" são verificados com muito menos frequência. Teste rodando
 
-para coletar todos os dados: py manage collect_data --full
+### Comandos do sistema internos
 
-apos 12h rodar novamente para garantir dados atualizados com frequencia:py manage collect_data
+Assim que criar seu ambiente virtual (recomanedado, usando `py -m venv venv`) e instalar as bibliotecas (usando `pip install -r requirements`)  você ira se deprar com o seguinte mini-sistema no terminal de comandos:
+``` js
+=== Warframe Market Data Collection CLI ===
+✓ Database contains 3745 items.
 
-se quiser forçar a coleta ignorando a verificiação das 12h: py manage collect_data --force
+Options:
+1. Priority Update (Recommended - Fast update of Top Items)
+2. Full Scrape (Slow - Update everything)
+3. Export Backup (Save to backup.json)
+4. Import Backup (Restore from backup.json)
+5. Exit
 
-Rodar esse comando apos rodar o --full, assim pega e atualiza somente os itens que tiverem algum dado estatisco usando o seu banco de dados para saber quais itens tem a informação
-python manage.py collect_data --tracked-only
+Select option:
+```
 
-para coletar os itens de prioridade  somente:
-python manage.py collect_data --priority
+inicialmente vai aparecer somente a 2 e 5 de opção caso o banco de dados esteja vazio. Caso ja tenha rodado a opção de full scrape anteriormente e rode novamente o comando collect_data essa mesam opção vai aparecer. recomendo Rodar a Priority Update para atualizar somente os itens mais importantes que possuem dados previamente analisados e com dados para ser gerados em predict pelo xgboost. Recomendo rodar o full scrape 1 vez acada mes para garantir que não há novos itens que "magicamente" começaram a ser negociados antes os que não eram.
 
-aumentado +2 requisições por segundo
+### Helpers
+No arquivo `run_celery.ps1` feito exclusivamente para rodar em windows, ao executar você ira se deparar com um mini sistema no terminal. Com ele você ira poder configurar de maneira mais facil o scheduler e worker para rodar em background.
+
+Se quiser forçar a coleta ignorando a verificiação das 12h: py manage collect_data --force
+
+### Historico de funções
+Nas suas primeiras versões desses sistema tive que fazer esse comando para que ele pudesse fazer a linkagem correta dos sets para cada parte do seu set, esse comando caiu em desuso. Porem recomendo fortemente que deixe ai para futuras e envetuais usos e consultas do tempo historico do sistema.
+`python manage.py collect_data --sets` // faz linkagem dos sets
+
+
+Caso você queire rodar os schedulers e worker manualmente por conta da diferença doss sistemas operacionais e não conseguir rodar o arquivo ps1:
+ **Terminal 1 (O Executor - Pense nele como o 'Operário'):**
+
+``celery -A warframe_predictor worker --pool=solo --loglevel=info``
+
+_(A flag `--pool=solo` é essencial no Windows para evitar que o worker trave)._
+
+**Terminal 2 (O Agendador - Pense nele como o 'Chefe' que manda as tarefas):**
+
+`celery -A warframe_predictor beat --loglevel=info`
+
+Deixe ambos rodando. O Terminal 2 vai mandar a ordem de atualização a cada 6h (conforme configuramos), e o Terminal 1 vai executá-la. 🏭
+
+Podemos começar a planejar o **Flash Flip Radar** enquanto eles rodam? ⚡
