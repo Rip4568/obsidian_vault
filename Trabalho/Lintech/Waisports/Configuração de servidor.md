@@ -20,8 +20,12 @@ saída do comando:
 /etc/supervisord.d/wai-sports-worker.ini:[program:wai-sports-worker]
 /etc/supervisord.d/wai-sports-worker.ini:stdout_logfile=/var/log/wai-sports-worker.log
 
+### Configuração de conexão com a vps:
+HostName 69.6.222.101
+Port 22022
+User root
 
-## comando para reiniciar os workers
+### Comando para reiniciar os workers
 
 ao fazer alteração nos jobs é crucial fazer um restar para que o novo código seja aplicado, faça usando esse comando:
 
@@ -34,7 +38,6 @@ host: localhost
 porta: 5432
 
 Conta admin: [[waisports conta admin]]
-
 
 Conexão com a vps: senha e host
 

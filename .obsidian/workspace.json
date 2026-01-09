@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "81fd92612226ee57",
+            "id": "0a68d91d3b15bcf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,21 +36,35 @@
             }
           },
           {
-            "id": "0a68d91d3b15bcf2",
+            "id": "c1e7281722a18497",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/Lintech/Waisports/Configuração de servidor.md",
+                "file": "Games, Tips and tricks/Warframe market analises/Warframe Market Analisis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuração de servidor"
+              "title": "Warframe Market Analisis"
+            }
+          },
+          {
+            "id": "b0bc8aa33892df43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trabalho/Lintech/Waisports/Contas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contas"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,14 +212,26 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0a68d91d3b15bcf2",
+  "active": "b0bc8aa33892df43",
   "lastOpenFiles": [
-    "Trabalho/Lintech/Waisports/waisports conta admin.md",
-    "Trabalho/Lintech/Waisports/Configuração de servidor.md",
+    "Games, Tips and tricks/Warframe market analises/Warframe Market Analisis.md",
+    "Trabalho/Lintech/Bio Organize/Bio Organize.md",
     "Trabalho/Lintech/Lintech Intro.md",
+    "Trabalho/Lintech/Checkout/Checkout.md",
+    "Trabalho/Lintech/Checkout",
     "Bem-vindo.md",
     "Estudo/CFAeIP/Mantras.md",
+    "Games, Tips and tricks/Warframe/Warframe Market API.md",
+    "Games, Tips and tricks/Warframe market analises",
+    "Games, Tips and tricks/Warframe/Warframe.md",
+    "Games, Tips and tricks/Warframe/Mods Comprar.md",
+    "Trabalho/Lintech/Waisports/Configuração de servidor.md",
+    "Trabalho/Lintech/Waisports/Contas.md",
+    "Trabalho/Lintech/JM/JM.md",
+    "Trabalho/Lintech/Bizora/Bizora.md",
     "Estudo/Engenharia de Software Moderna/Questões e Respostas. pag 37.md",
+    "Estudo/CFAeIP/Notas importantes.md",
+    "Trabalho/Lintech/Waisports/waisports conta admin.md",
     "update-personal.ps1",
     "update-personal.exe",
     "Estudo/CFAeIP/CFAeIP.md",
@@ -214,29 +240,17 @@
     "Estudo/Engenharia de Software Moderna/engenharia-de-software-moderna.pdf",
     "Estudo/Engenharia de Software Moderna/Engenharia de Software Moderna.md",
     "Estudo/Engenharia de Software Moderna/Resumo.md",
-    "Games, Tips and tricks/Warframe/Warframe.md",
     "Estudo/Engenharia de Software Moderna",
-    "Estudo/CFAeIP/Notas importantes.md",
     "Estudo/CFAeIP",
-    "Games, Tips and tricks/Warframe/Mods Comprar.md",
     "Estudo",
     "Games, Tips and tricks/Warframe",
     "Marketing Digital/ideias/Packs Gerados por IA.md",
     "abcadwa d aw.md",
     "Games, Tips and tricks/Tips And Tricks.md",
     "Games, Tips and tricks",
-    "Bartender/pdfs/coqueteis_de_receitas_criativas_por_max_hayward.pdf",
-    "Bartender/pdfs/12-classicos-de-bolso.pdf",
     "Bartender/pdfs/Bartender Intro.md",
     "Trabalho/Azeosoft/Azeosoft Introdução e resumo.md",
-    "Trabalho/Techs/Sistema Ponto/Introdução e tarefas.md",
-    "Trabalho/Azeosoft/ICP. Ideal Consumer Profile.md",
     "Pasted image 20250901021004.png",
-    "SSH e github/Configuração para automatizar commits ao github.md",
-    "waisports/VPS configurações.md",
-    "orchestall_vault/orchestall/Ideias e Projetos/Cosmeticos (Rhode)/Sobre Cosmeticos.md",
-    "Sem título/Passo bem solto.md",
-    "orchestall_vault/orchestall/Ideias e Projetos/Games/Sobre Games.md",
     "orchestall_vault/orchestall/Ideias e Projetos/Games/Pasted image 20250901021004 1.png",
     "orchestall_vault/orchestall/Servicos (caixa rapido)/NichoHot/Pasted image 20250903180450.png",
     "orchestall_vault/orchestall/Servicos (caixa rapido)/Pasted image 20250903180450.png",
