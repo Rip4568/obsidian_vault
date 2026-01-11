@@ -1,0 +1,3 @@
+Venda Sugestiva e Consultiva, o que são ?
+Venda Consultiva tem por finalidade encontrar o produto/sereviço ideal pro cliente, tirando diversas duvidas de maneira inteligente e acertiva para propor a melhor solução.
+Venda Sugestiva, consiste em sugerir produtos porem não obstruindo as pequenas duvidas e interesses do cliente, fornecer informações e induzir de maneira que ele aceite no produto que ele se interessou.

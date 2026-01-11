@@ -4,3 +4,8 @@ Precise guide, subscribed. Cave (hole) locations: • Farbreeze hamlet • Fair 
 Nessas mesmas cavernas acima possui mini tasks para obter recompensas, faça uma delas SOMENTE quando estiver finalizado a coleta das tasomas. elas se regeram com o tempo então.
 
 Dica Extra: comprar pacote de dobro de recursos por 3 dias (mais barato) de 40 platinas + Decree de dobro de plantas e recursos
+
+
+### ArchWing
+melhor lugar para farmar XP e mods: Salacia, Netuno. 
+Sobrevivencia em Uranos tambem é bom

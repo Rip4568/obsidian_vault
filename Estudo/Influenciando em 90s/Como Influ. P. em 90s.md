@@ -19,3 +19,5 @@ Olhar nos olhos, para quem tiver dificuldade basta responder a seguinte pergunta
 
 No livro foi mencionando que segurar uma caneta como um objeto/utensilio e estar sem a ponta aparenta estar totalmente livree.
 
+### Frases Incriveis!
+"Seu corpo e sua mente são um único sistema – mude um deles e o outro irá fazer igual."
